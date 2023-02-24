@@ -1,0 +1,9 @@
+{
+  "IRCTCUrl": "https://www.irctc.co.in/nget/train-search",
+  "YouTubeUrl": "https://www.youtube.com/",
+  "SearchValue": "C#",
+  "AlertTestUrl": "https://the-internet.herokuapp.com/"
+
+
+  //Taskkill /f /im chromedriver.exe
+}
